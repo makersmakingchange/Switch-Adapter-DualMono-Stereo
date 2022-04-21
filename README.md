@@ -8,8 +8,8 @@ To use the Dual Mono-Stereo Adapter, connect the two assistive switches to the L
 
 
 ## More info at
-- [Makers Making Change Project Page](<Add link>)
-- [Makers Making Change Forum Thread](<Add link>)
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/dual-mono-stereo-adapter/)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/stereo-mono-adapter/)
 
 
 ## Getting Started
@@ -23,9 +23,9 @@ The [Bill of Materials](/Documentation/Dual-Mono-Stereo_Adapter_BOM_v1.0.csv) li
 
 3D print the components. Refer to the [3D Printing Guide](/Documentation/Dual-Mono-Stereo_Adapter_3D_Print_Guide_v1.0.pdf).
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 3. Assemble the ...
+### 3. Assemble the Device
 
 Reference the [Assembly Guide](/Documentation/Dual-Mono-Stereo_Adapter_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
 
@@ -34,18 +34,18 @@ Reference the [Assembly Guide](/Documentation/Dual-Mono-Stereo_Adapter_Assembly_
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Dual-Mono-Stereo_Adapter_Design_Rationale](/Documentation/Dual-Mono-Stereo_Adapter_Design_Rationale_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Dual-Mono-Stereo_Adapter_Bill_of_Materials](/Documentation/Dual-Mono-Stereo_Adapter_BOM_v1.0.xlsx)     |
+| Bill of Materials    | 1.0     | [Dual-Mono-Stereo_Adapter_Bill_of_Materials](/Documentation/Dual-Mono-Stereo_Adapter_BOM_v1.0.csv)     |
 | 3D Print Guide       | 1.0     | [Dual-Mono-Stereo_Adapter_3D_Print_Guide](/Documentation/Dual-Mono-Stereo_Adapter_3D_Print_Guide_v1.0.pdf)     |
 | Assembly Guide       | 1.0     | [Dual-Mono-Stereo_Adapter_Assembly_Guide](/Documentation/Dual-Mono-Stereo_Adapter_Assembly_Guide_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [Dual-Mono-Stereo_Adapter_Maker_Checklist](/Documentation/Dual-Mono-Stereo_Adapter_Checklist_v1.0.pdf)     |
-| User Guide           | 1.0     | [Dual-Mono-Stereo_Adapter_User_Guide](/Documentation/Dual-Mono-Stereo_Adapter_Quick_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [Dual-Mono-Stereo_Adapter_Changelog](/Documentation/Dual-Mono-Stereo_Adapter_Changelog_v1.0.pdf)     |
+| Maker Checklist      | 1.0     | [Dual-Mono-Stereo_Adapter_Maker_Checklist](/Documentation/Dual-Mono-Stereo_Adapter_Maker_Checklist_v1.0.pdf)     |
+| User Guide           | 1.0     | [Dual-Mono-Stereo_Adapter_User_Guide](/Documentation/Dual-Mono-Stereo_Adapter_User_Guide_v1.0.pdf)    |
+| Changelog            | 1.0     | [Dual-Mono-Stereo_Adapter_ChangeLog](/Documentation/Dual-Mono-Stereo_Adapter_ChangeLog_v1.0.pdf)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
  - [3D Printing Guide](/Documentation/Dual-Mono-Stereo_Adapter_3D_Print_Guide_v1.0.pdf)
 
 ## Attribution

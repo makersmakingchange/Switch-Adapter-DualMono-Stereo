@@ -1,4 +1,4 @@
-# Dual-Mono-Stereo Switch Adapter
+# Dual Mono Stereo Switch Adapter
 The Dual-Mono-Stereo Switch Adapter provides a way to connect two assistive switches with 3.5 mm / 1/8 in mono cables to a single 3.5 mm / 1/8 in stereo input on a compatible assistive technology device. 
 
 ![Device Name](Photos/DualMono-Stereo_Adapter_Input.jpg)
@@ -6,11 +6,8 @@ The Dual-Mono-Stereo Switch Adapter provides a way to connect two assistive swit
 ## Usage 
 To use the Dual Mono-Stereo Adapter, connect the two assistive switches to the Left and Right Inputs on the adapter. Then connect the adapter to the AT device with a stereo male-to-male extension cable.
 
-
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/dual-mono-stereo-adapter/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/stereo-mono-adapter/)
-
 
 ## Getting Started
 
@@ -49,7 +46,10 @@ Reference the [Assembly Guide](/Documentation/Dual-Mono-Stereo_Adapter_Assembly_
  - [3D Printing Guide](/Documentation/Dual-Mono-Stereo_Adapter_3D_Print_Guide_v1.0.pdf)
 
 ## Attribution
-Design by Makers Making Change
+Designed and documented by Makers Making Change
+
+### Contributors
+ - Jake McIvor, Neil Squire Society / Makers Making Change
 
 
 
@@ -59,8 +59,7 @@ Everything needed or used to design, make, test, or prepare the Dual-Mono-Stereo
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Dual-Mono-Stereo Switch Adapter are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0)
 
 
-
-
+<!-- ABOUT MMC START -->
 ## About Us
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -77,3 +76,4 @@ We are committed to cultivating a network of volunteer makers who support people
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
